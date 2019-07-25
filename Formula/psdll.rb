@@ -1,8 +1,8 @@
 class Psdll < Formula
-  version '0.1.2'
+  version '0.1.3'
   homepage 'https://github.com/wantedly/psdll'
-  url "https://github.com/wantedly/psdll/releases/download/v0.1.2/psdll_darwin_amd64.zip"
-  sha256 '56278e07e0ef46bf2e6eabb3cd803b7044bedaa389f93807e5144fdea468d62a'
+  url "https://github.com/wantedly/psdll/releases/download/v0.1.3/psdll_darwin_amd64.zip"
+  sha256 'cb2acccc3fdc161fd11bb80e341470eb7b6ed086e3ffbe5d381b3583fb7db682'
   head 'https://github.com/wantedly/psdll.git'
 
   head do
